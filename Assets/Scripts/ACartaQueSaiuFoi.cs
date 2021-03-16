@@ -12,7 +12,7 @@ public class ACartaQueSaiuFoi : MonoBehaviour
     {
         figuras = new[] { "Ás", "Rei", "Dama", "Valete", "10", "9", "8", "7", "6", "5", "4", "3", "2" };
         pintas = new[] { "Copas", "Espadas", "Ouros", "Paus" };
-        Debug.Log("Olá, se queres uma carta do meu baralho, então carrega no espaço");
+        Debug.Log("Olá, queres uma carta do meu baralho? Carrega no espaço");
     }
 
     // Update is called once per frame
